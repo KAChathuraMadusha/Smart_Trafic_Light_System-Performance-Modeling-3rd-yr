@@ -27,4 +27,4 @@ The simulation measures performance metrics such as **average wait time**, **thr
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/KAChathuraMadusha/Smart_Trafic_Light_System-Performance-Modeling-3rd-yr.git>
